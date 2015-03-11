@@ -7,6 +7,7 @@ concrete strategies (as we can see at
 http://en.wikipedia.org/wiki/Strategy_pattern), however Python supports
 higher-order functions and allows us to have only one class and inject
 functions into it's instances, as shown in this example.
+Just example
 """
 import types
 
